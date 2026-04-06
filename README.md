@@ -55,7 +55,7 @@ I specialize in turning raw data into **clean, analytics-ready datasets** using 
 * Implemented **data cleaning & transformation using dbt**
 * Delivered **analytics-ready datasets for BI tools**
 
-👉 [View Project]/((https://github.com/ZerihunWaje/end-to-end-ecommerce-analytics-engineering-dbt-))
+👉 [View Project]/(https://github.com/ZerihunWaje/end-to-end-ecommerce-analytics-engineering-dbt-)
 
 ---
 
