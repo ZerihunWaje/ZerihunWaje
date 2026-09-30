@@ -1,6 +1,6 @@
 # Hi, I'm Zerihun Waje
 
- **Analytics Engineer | Data Analyst | BI & dbt Specialist**
+ **Analytics Engineer | Data Analyst | BI & dbt Specialist | Civil Engineer**
 
  Berlin, Germany
 
