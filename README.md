@@ -23,4 +23,3 @@ I also lecture and mentor 300+ data students, helping them transition into data 
 
 ---
 
-⭐ *Open to Analytics Engineering & Data roles in Germany / EU*
