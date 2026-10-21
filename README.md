@@ -1,6 +1,6 @@
 # Hi, I'm Zerihun Waje
 
- **Analytics Engineer | Data Analyst | BI & dbt Specialist | Civil Engineer**
+ **Data & Analytics Engineer | Data Analyst | BI & dbt Specialist **
 
  Berlin, Germany
 
@@ -8,11 +8,11 @@
 
 ## About Me
 
-I’m an **Analytics Engineer** with 4+ years of experience designing data models, building scalable transformation pipelines, and delivering business insights through BI tools.
+I’m a **Data & Analytics Engineer** with 5+ years of experience designing data models, building scalable transformation pipelines, and delivering business insights through BI tools.
 
-I specialize in turning raw data into **clean, analytics-ready datasets** using modern data stack tools like **dbt, PostgreSQL, and BigQuery**.
+I specialize in turning raw data into **clean, analytics-ready datasets** using modern data stack tools like **dbt, SQL, GCP, Snowflake, Databricks, and AI**.
 
-I also mentor 300+ students, helping them transition into data careers by simplifying complex data concepts. 
+I also lecture and mentor more than 300 data students, helping them transition into data careers by simplifying complex data concepts. 
 
 
 ##  Connect With Me
